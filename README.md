@@ -1,5 +1,4 @@
-<h1 align="center">Hola  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
+<h1 align="center">Hola  ![saludo](1f44b.gif)
 , Soy Daniel Carrión Martínez</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
