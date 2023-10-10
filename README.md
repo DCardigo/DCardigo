@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel Carrión Martínez</h1>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 
-<!--
-**DCardigo/DCardigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **projects that allow me to learn and grow as a web developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DCardigo?tab=repositories](https://github.com/DCardigo?tab=repositories)
+
+- 💬 Ask me about **react, JS, CSS, html5**
+
+- 📫 How to reach me **danicm89@gmail.com**
+
+- ⚡ Fun fact **I love climbing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel carrión martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel carrión martínez" height="30" width="40" /></a>
+</p>
