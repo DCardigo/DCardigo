@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Daniel Carrión Martínez</h1>
+<h1 align="center">Hola ![1f44b](https://github.com/DCardigo/DCardigo/assets/123099651/b7757c5c-2f8e-4518-8cb1-0470f210fa43)
+, Soy Daniel Carrión Martínez</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**, **Wordpress**
 
 - 👯 I’m looking to collaborate on **projects that allow me to learn and grow as a web developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DCardigo?tab=repositories](https://github.com/DCardigo?tab=repositories)
 
-- 💬 Ask me about **react, JS, CSS, html5**
+- 💬 Ask me about **React, JS, CSS, Html5**
 
 - 📫 How to reach me **danicm89@gmail.com**
 
