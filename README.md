@@ -2,10 +2,7 @@
 <h1 align="center">Hola, 
 [<img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ik8j2rtwc6wjt23v67egs6huf6kiqxn3sgzuxg7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50">]  soy Daniel Carrión Martínez </h1>
 
-<h1 align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="Hippo" />
-  Mi Proyecto
-</h1>
+
 
 
 
@@ -14,7 +11,10 @@
 
 
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
-
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="Hippo" />
+  Mi Proyecto
+</h1>
 - 🌱 I’m currently learning **Kotlin**, **Wordpress** 
 
 - 👯 I’m looking to collaborate on **projects that allow me to learn and grow as a web developer**
