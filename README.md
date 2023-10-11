@@ -16,7 +16,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, G
 
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [LePetitePain](https://github.com/DCardigo/LePetitePain2)
+- 🔭 Actualmente estoy trabajando en [LePetitePain](https://github.com/DCardigo/LePetitePain2](https://github.com/DCardigo/LePetitePain)
 
 - 🌱 Estoy aprendiendo **Kotlin** *Progreso 5%*, **Wordpress** *Progreso 10%* 
 
