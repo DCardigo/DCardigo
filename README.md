@@ -6,7 +6,7 @@
 
 
 
-<p align="center">Mis fuertes son el desarrollo web, la escritura creativa y la formulación de estrategias de marketing.
+<p> Mis fuertes son el desarrollo web, la escritura creativa y la formulación de estrategias de marketing.
 
 Me considero una persona organizada y metódica con inclinación a aplicar creatividad a la resolución de todo tipo de problemas. 
 
