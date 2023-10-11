@@ -18,17 +18,21 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, G
 
 - 🔭 Actualmente estoy trabajando en [LePetitePain](https://github.com/DCardigo/LePetitePain2)
 
-- 🌱 Estoy aprendiendo **Kotlin** *5%*, **Wordpress** *10%* 
+- 🌱 Estoy aprendiendo **Kotlin** *Progreso 5%*, **Wordpress** *Progreso 10%* 
 
-- 👯 Busco colaborar en **todo tipo de proyectos pero especialmente en aquello que me permitan aprender nuevas tecnologías y herramientas**
+- 👯 Busco colaborar en **todo tipo de proyectos especialmente en aquellos que me permitan aprender nuevas tecnologías y herramientas**
 
-- 👨‍💻 Puesde ver mis proyecos aquí: [https://github.com/DCardigo?tab=repositories](https://github.com/DCardigo?tab=repositories)
+- 👨‍💻 Puesde ver mis proyectos aquí: [https://github.com/DCardigo?tab=repositories](https://github.com/DCardigo?tab=repositories)
 
 - 💬 Pregúntame sobre **React, JS, CSS, Html5**
 
 - 📫 Si quieres contactarme: **danicm89@gmail.com** **680 11 27 37**
 
 - ⚡ Hablando de otra cosa... **¡Me encanta escalar!**
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif?cid=ecf05e47luzdlma9stihomohuvgm5cbw9yw11olqrtaabvqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100">
+</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
