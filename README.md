@@ -26,7 +26,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, G
 
 - 💬 Pregúntame sobre **React, JS, CSS, Html5**
 
-- 📫 Si quieres contactarme: **danicm89@gmail.com** **680 11 27 37**
+- 📫 Si quieres contactarme: **danicm89@gmail.com** -**680 11 27 37**-
 
 - ⚡ Hablando de otra cosa... **¡Me encanta escalar!**
 
