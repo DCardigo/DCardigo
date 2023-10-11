@@ -6,13 +6,13 @@
 
 
 
-<h3 align="center">Mis fuertes son el desarrollo web, la escritura creativa y la formulación de estrategias de marketing.
+<p align="center">Mis fuertes son el desarrollo web, la escritura creativa y la formulación de estrategias de marketing.
 
 Me considero una persona organizada y metódica con inclinación a aplicar creatividad a la resolución de todo tipo de problemas. 
 
 Me considero una persona precisa, tolerante y conciliadora. Me gusta trabajar en equipo y soy capaz de adaptarme a los cambios con rapidez.
 
-Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, Git y GitHub,  Vercel, Slack y Discord.</h3>
+Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, Git y GitHub,  Vercel, Slack y Discord.</p>
 
 
 
