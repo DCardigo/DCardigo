@@ -31,7 +31,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, G
 - ⚡ Hablando de otra cosa... **¡Me encanta escalar!**
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif?cid=ecf05e47luzdlma9stihomohuvgm5cbw9yw11olqrtaabvqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100">
+  <img src="https://media4.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif?cid=ecf05e47luzdlma9stihomohuvgm5cbw9yw11olqrtaabvqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200">
 </p>
 
 <h3 align="left">Conecta conmigo:</h3>
