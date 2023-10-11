@@ -1,7 +1,7 @@
 <h1 align="center">Hola  
-, Soy Daniel Carrión Martínez</h1> ![saludo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+, Soy Daniel Carrión Martínez</h1> 
 <h3 align="center">A passionate frontend developer from Spain</h3>
-
+![saludo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
 
 - 🌱 I’m currently learning **Kotlin**, **Wordpress** 
