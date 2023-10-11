@@ -1,10 +1,10 @@
 <h1 align="center">Hola  
-, Soy Daniel Carrión Martínez</h1>
+, Soy Daniel Carrión Martínez</h1> ![saludo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
 
-- 🌱 I’m currently learning **Kotlin**, **Wordpress** ![saludo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+- 🌱 I’m currently learning **Kotlin**, **Wordpress** 
 
 - 👯 I’m looking to collaborate on **projects that allow me to learn and grow as a web developer**
 
