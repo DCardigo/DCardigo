@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:50px;">Hola, 
+<p align="center" style="font-size:500px;">Hola, 
 </p> 
 
 <h1 align="center"> Soy Daniel Carrión Martínez </h1>
