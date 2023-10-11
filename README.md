@@ -14,7 +14,7 @@ Me considero una persona precisa, tolerante y conciliadora. Me gusta trabajar en
 
 Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, Git y GitHub,  Vercel, Slack y Discord.</p>
 
-
+<br/>
 
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
 
