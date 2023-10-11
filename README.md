@@ -1,8 +1,7 @@
 
-<p align="center" style="font-size:500px;">Hola, 
-</p> 
 
-<h1 align="center"> Soy Daniel Carrión Martínez </h1>
+<img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ik8j2rtwc6wjt23v67egs6huf6kiqxn3sgzuxg7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50">
+<h1 align="center">Hola,  soy Daniel Carrión Martínez </h1>
 
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
