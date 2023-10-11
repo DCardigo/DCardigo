@@ -1,6 +1,6 @@
 
-<p align="center" style="size:1500px;"  >Hola, 
-<img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ik8j2rtwc6wjt23v67egs6huf6kiqxn3sgzuxg7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50"> soy Daniel Carrión Martínez </p>
+<h3 align="center" style="font-size:50px;">Hola, 
+<img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ik8j2rtwc6wjt23v67egs6huf6kiqxn3sgzuxg7e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="50"> soy Daniel Carrión Martínez </h3>
 
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
