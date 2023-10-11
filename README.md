@@ -1,6 +1,6 @@
 <h1 align="center">Hola , soy Daniel Carrión Martínez</h1> 
 
-![saludo](https://media2.giphy.com/media/NTjxSbh6KnqSyRa1zk/giphy.gif?cid=ecf05e474vax0nadjxjibmguuwvgo29wwl980ip1d2lrdfqk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![saludo](https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47ik8j2rtwc6wjt23v67egs6huf6kiqxn3sgzuxg7e&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
