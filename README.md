@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e476bjc37xzejh9k15859d0rep2qu2so0ltq1jc3si3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="100">
 </p>
 
@@ -30,7 +30,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, G
 
 - ⚡ Hablando de otra cosa... **¡Me encanta escalar!**
 
-<p  style="display:inline; float:right;" ><img src="https://media4.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif?cid=ecf05e47luzdlma9stihomohuvgm5cbw9yw11olqrtaabvqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200"></p>
+<p  align="right" ><img src="https://media4.giphy.com/media/4EFsQt657jDzdCcClx/giphy.gif?cid=ecf05e47luzdlma9stihomohuvgm5cbw9yw11olqrtaabvqa&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="200"></p>
 
 
 
