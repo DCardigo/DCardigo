@@ -10,9 +10,9 @@
 
 Me considero una persona organizada y metódica con inclinación a aplicar creatividad a la resolución de todo tipo de problemas. 
 
-Me considero una persona precisa, tolerante y conciliadora. Me gusta trabajar en equipo y soy capaz de adaptarme a los cambios con rapidez.
+Me gusta trabajar en equipo donde siempre me muestro tolerante. Tiendo a mantener una postura conciliadora y soy capaz de adaptarme a los cambios con rapidez.
 
-Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, Git y GitHub,  Vercel, Slack y Discord.</p>
+Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, Flask, Python, Git y GitHub, Vercel y Slack.</p>
 
 <br/>
 
