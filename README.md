@@ -11,10 +11,10 @@
 
 
 - 🔭 I’m currently working on [De la huerta](https://github.com/intiluna/Proyecto-final-DASI)
-<h1 align="center">
+<p align="center">
   <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="Hippo" />
   Mi Proyecto
-</h1>
+</p>
 - 🌱 I’m currently learning **Kotlin**, **Wordpress** 
 
 - 👯 I’m looking to collaborate on **projects that allow me to learn and grow as a web developer**
