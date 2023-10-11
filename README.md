@@ -1,4 +1,4 @@
-<h1 align="center">Hola  ![saludo](1f44b.gif)
+<h1 align="center">Hola  ![saludo]([1f44b.gif](https://github.com/DCardigo/DCardigo/blob/main/1f44b.gif))
 , Soy Daniel Carrión Martínez</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
