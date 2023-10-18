@@ -18,7 +18,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 - 🔭 Actualmente estoy trabajando en [LePetitePain](https://github.com/DCardigo/LePetitePain)
 
-- 🌱 Estoy aprendiendo **Redux 5%**
+- 🌱 Estoy aprendiendo **Redux**
 
 - 👯 Busco colaborar en **todo tipo de proyectos especialmente en aquellos que me permitan aprender nuevas tecnologías y herramientas**
 
