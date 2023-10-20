@@ -16,7 +16,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [LePetitePain](https://github.com/DCardigo/LePetitePain)
+- 🔭 Actualmente estoy trabajando en [Countdown-timer](https://github.com/DCardigo/Countdown-timer)
 
 - 🌱 Estoy aprendiendo **Redux**
 
