@@ -16,7 +16,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [Countdown-timer](https://github.com/DCardigo/Countdown-timer)
+- 🔭 Actualmente estoy trabajando en [Bingo!](https://github.com/DCardigo/Bingo-)
 
 - 🌱 Estoy aprendiendo **Redux**
 
