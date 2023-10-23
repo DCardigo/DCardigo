@@ -16,7 +16,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [Bingo!](https://github.com/DCardigo/Bingo-)
+- 🔭 Actualmente estoy trabajando en [Mis Componentes](https://github.com/DCardigo/My_Components)
 
 - 🌱 Estoy aprendiendo **Redux**
 
