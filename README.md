@@ -22,7 +22,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 - 🔭 Actualmente estoy trabajando en [Mis Componentes](https://github.com/DCardigo/Mis-componentes)
 
-- 🌱 Estoy aprendiendo **Java**
+- 🌱 Estoy aprendiendo **Redux**
 
 - 👯 Busco colaborar en **todo tipo de proyectos especialmente en aquellos que me permitan aprender nuevas tecnologías y herramientas**
 
