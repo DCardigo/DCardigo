@@ -20,7 +20,7 @@ Trabajo con tecnologías como:  HTML5, CSS3, Bootstrap, JavaScript ES6, React, F
 
 <br/>
 
-- 🔭 Actualmente estoy trabajando en [AIC](https://github.com/DCardigo/AIC_API)
+- 🔭 Actualmente estoy trabajando en [AIC](https://github.com/DCardigo/AIC_PRUEBA)
 
 - 🌱 Estoy aprendiendo **Redux**
 
